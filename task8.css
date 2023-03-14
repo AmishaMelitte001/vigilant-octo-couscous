@@ -1,0 +1,12 @@
+
+h3{
+    text-align: center;
+    color: blueviolet;
+}
+.i1{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10%;
+}

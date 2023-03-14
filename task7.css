@@ -1,0 +1,26 @@
+.parent{
+    box-sizing: border-box;
+    display: inline-flex;
+}
+.box1{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border: 10px solid green;
+
+}
+.box2{
+    background-color:white;
+    height: 200px;
+    width: 200px;
+    border: 10px solid green;
+    text-align: center;
+}
+.box3{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    border: 10px solid red;
+    text-align: center;
+}
